@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![hello](dino.gif "Hello")
+<img src="/dino.gif" align="left" height="200" width="200" >
