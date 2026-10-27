@@ -15,8 +15,6 @@ Fifteen years of making things for the web. Days at [Signifly](https://www.signi
 | **[Sponos](https://casperjuel.github.io/sponos/)** &nbsp;`NEW!` | A fast macOS controller for Sonos with Spotify search, a queue you can drag around, and a floorplan of your rooms. | Tauri · Rust · TypeScript |
 | **[aula-mcp](https://github.com/Casperjuel/aula-mcp)** &nbsp;`★ POPULAR` | MCP server for Aula, the Danish school platform. Ask your assistant what's for lunch on Thursday. MitID auth included. | TypeScript · Bun · MCP |
 | **[Fondfinder.dk](https://fondfinder.dk)** | Natural-language search across every Danish fund and grant. Describe a project, get ranked matches with reasons. | Next.js · Embeddings · Claude |
-| **[Byggebørsen.dk](https://www.byggebørsen.dk)** | A marketplace for reused building materials. Web and app, so the leftover tiles from your renovation find a new floor. | Next.js · Expo · Turborepo |
-| **[Materialepasset.dk](https://www.materialepasset.dk)** | Digital material passports for reused construction materials. Create them with AI, share them with a QR code. | Next.js · AI · QR |
 | **Hjem** &nbsp;`[private]` | Home Assistant wall panels for the Shelly Wall Display. 26 KB gzipped, 58 fps on a 1 GB Cortex-A7, because Lovelace is 5 MB. | Vanilla JS · WebSocket |
 | **[abrp-mcp](https://github.com/Casperjuel/abrp-mcp)** | Unofficial MCP server for A Better Route Planner. EV routes, charging stops and range estimates as tools. | TypeScript · Hono · Vercel |
 | **[casperjuel.dk](https://github.com/Casperjuel/casperjuel.dk)** | This site. Plain HTML, CSS and JS, one three.js, a graveyard of old hacks and a `reboot` command. No build step. | HTML · CSS · JS |
